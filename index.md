@@ -2,7 +2,7 @@
 
 ## We provide developmet services
 
-Professional native iOS and Android app development apps developemnt.
+Professional native iOS and Android app development.
 
 ## Exiting projects we worked on
 
