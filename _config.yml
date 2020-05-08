@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
+title: Ratas Kvadratas MB
+show_downloads: false
