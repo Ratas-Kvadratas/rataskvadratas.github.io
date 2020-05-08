@@ -1,8 +1,8 @@
 # Ratas Kvadratas, MB
 
-## We provide developmet services
+## Developmet services
 
-Professional native iOS and Android app development.
+We provide professional iOS and Android app development.
 
 ## Exiting projects we worked on
 
